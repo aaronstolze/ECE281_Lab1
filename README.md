@@ -46,7 +46,11 @@ Lab 1 Repository
 
 After running the test, the expected values did indeed match the results from the simulation proving that the simulation was coded correctly.
 
+# Schematic
+
+![alt text](https://raw.github.com/aaronstolze/ECE281_Lab1/master/Schematic.jpg "Schematic")
+
 # Testbench Waveform
 
-![alt text](https://raw.github.com/aaronstolze/ECE281_Lab1/master/Schematic.jpg "Testbench Waveform")
+![alt text](https://raw.github.com/aaronstolze/ECE281_Lab1/master/Testbench.PNG "Testbench Waveform")
 
