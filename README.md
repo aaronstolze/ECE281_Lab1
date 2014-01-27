@@ -60,7 +60,7 @@ When the code was implemented onto the Nexys 2, the input values were tested in 
 
 # Demonstration
 
-Both my notebook and my 3-bit solution was checked by Dr. Neebel and he confirmed that it was indeed correct.
+Both my notebook and my 3-bit solution were checked by Dr. Neebel and he confirmed that they were indeed correct.
 
 # Documentation
 
