@@ -16,7 +16,7 @@ Lab 1 Repository
 |1|1|0|
 |1|1|1|
 
-# Expected Output Values
+# Simulation Results
 
 |D|E|F|
 |:-:|:-:|:-:|
@@ -29,7 +29,7 @@ Lab 1 Repository
 |0|1|0|
 |0|0|1|
 
-# Actual Output Values
+# Implementation Results
 
 |D|E|F|
 |:-:|:-:|:-:|
@@ -44,13 +44,13 @@ Lab 1 Repository
 
 # Schematic
 
-Picture of the drawn circuit
-![alt text](https://raw.github.com/aaronstolze/ECE281_Lab1/master/Schematic.jpg "Schematic")
+Picture of the drawn circuit with labeled signals.
+![alt text](https://raw.github.com/aaronstolze/ECE281_Lab1/master/Schematic.jpg "Drawn Schematic")
 
 # Testbench Waveform
 
 Picture of the simulated waveform.
-![alt text](https://raw.github.com/aaronstolze/ECE281_Lab1/master/Testbench.PNG "Testbench Waveform")
+![alt text](https://raw.github.com/aaronstolze/ECE281_Lab1/master/Testbench.PNG "Testbench Waveform Simulation")
 
 # Analysis
 
@@ -61,3 +61,7 @@ When the code was implemented onto the Nexys 2, the input values were tested in 
 # Demonstration
 
 Both my notebook and my 3-bit solution was checked by Dr. Neebel and he confirmed that it was indeed correct.
+
+# Documentation
+
+C3C Sean Gavan helped me to develop an initial signal line of code which allowed me to finish the rest of the signal coding.
