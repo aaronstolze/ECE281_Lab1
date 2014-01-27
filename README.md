@@ -3,7 +3,7 @@ ECE281_Lab1
 
 Lab 1 Repository
 
-# Inputs    # Outputs
+# Inputs
 
 |A|B|C|
 |:-:|:-:|:-:|
