@@ -59,6 +59,10 @@ Picture of the simulated waveform.
 ![alt text](https://raw.github.com/aaronstolze/ECE281_Lab1/master/Testbench.PNG "Testbench Waveform Simulation")
 
 
+# Debugging
+
+Inital test of the implementation showed that the inputs and outputs were reveresed on the board so I had to go into the code and switch it so it would be correctly implemented.
+
 # Analysis
 
 After running the test, the expected values did indeed match the results from the simulation proving that the simulation was coded correctly.
