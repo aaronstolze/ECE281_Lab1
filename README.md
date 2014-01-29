@@ -53,8 +53,8 @@ Picture of the simulated waveform.
 ![alt text](https://raw.github.com/aaronstolze/ECE281_Lab1/master/Testbench.PNG "Testbench Waveform Simulation")
 
 # SOP Equations
-D = A_NOT * B_NOT + A_NOT * C + A * B_NOT * C_NOT
-E = B_NOT * C + B * C_NOT
+D = A_NOT * B_NOT + A_NOT * C + A * B_NOT * C_NOT;
+E = B_NOT * C + B * C_NOT;
 F = C
 
 # Analysis
