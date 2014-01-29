@@ -54,7 +54,7 @@ Picture of the simulated waveform.
 
 # SOP Equations
 D = A_NOT * B_NOT + A_NOT * C + A * B_NOT * C_NOT                                                
-E = B_NOT * C + B * C_NOT
+E = B_NOT * C + B * C_NOT                                                   
 F = C
 
 # Analysis
