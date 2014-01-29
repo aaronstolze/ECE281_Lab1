@@ -42,6 +42,12 @@ Lab 1 Repository
 |0|1|0|
 |0|0|1|
 
+# SOP Equations
+D = A_NOT * B_NOT + A_NOT * C + A * B_NOT * C_NOT                                                
+E = B_NOT * C + B * C_NOT                                                   
+F = C
+
+
 # Schematic
 
 Picture of the drawn circuit with labeled signals.
@@ -52,10 +58,6 @@ Picture of the drawn circuit with labeled signals.
 Picture of the simulated waveform.
 ![alt text](https://raw.github.com/aaronstolze/ECE281_Lab1/master/Testbench.PNG "Testbench Waveform Simulation")
 
-# SOP Equations
-D = A_NOT * B_NOT + A_NOT * C + A * B_NOT * C_NOT                                                
-E = B_NOT * C + B * C_NOT                                                   
-F = C
 
 # Analysis
 
